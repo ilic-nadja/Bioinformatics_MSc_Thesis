@@ -26,7 +26,7 @@
 - Continuing in R, extracted classes and genera with highest absolute LuxR count
 - Then corrected values by number of proteomes – got fairer comparison which taxa relatively high or low representation
 
-![[FIGURE 1 | Building taxonomic distribution plots]](README Media/Picture 1.png)
+![](README%20Media/Picture%201.png)
 
 #### 2. Building Clustering Trees to Reconstruct Evolutionary History & Domain Diversification
 
@@ -36,7 +36,7 @@
 - MEGA/X to infer phylogenetic tree via ML method.
 - R to visualize the Newick file trees
 
-![[Pasted image 20240130110956.png]]
+![](README%20Media/Picture%202.png)
 
 #### 2. DBD & SBD Coordinate Extraction
 
@@ -44,7 +44,7 @@
 - New FASTA files corresponding to each domain - UniProtKB included all AHL-type LuxRs, whilst InterPro had the metadata on domain positions. These files were matched
 - Exposed to tree building algorithms (MUSCLE, MEGA, R)
 
-![[Pasted image 20240130111040.png]]
+![](README%20Media/Picture%203.png)
 
 
 #### 3. Within Species Diversification of LuxR Proteins
@@ -52,7 +52,7 @@
 - BLASTp – retrieve from the nr database in BLAST all sequence homologous to each distict LuxR found in KEGG
 - CD-HIT – sequence variance assessment --> decreased CD-HIT setting by 1% each run.
 
-![[Pasted image 20240130111356.png]]
+![](README%20Media/Picture%204.png)
 
 ## Results:
 
