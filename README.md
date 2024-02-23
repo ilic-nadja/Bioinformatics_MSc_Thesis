@@ -26,7 +26,7 @@
 - Continuing in R, extracted classes and genera with highest absolute LuxR count
 - Then corrected values by number of proteomes – got fairer comparison which taxa relatively high or low representation
 
-![[Pasted image 20240119154947.png]]
+![[FIGURE 1 | Building taxonomic distribution plots]](README Media/Picture 1.png)
 
 #### 2. Building Clustering Trees to Reconstruct Evolutionary History & Domain Diversification
 
